@@ -176,7 +176,8 @@
   <div id="screen2" class="screen">
     <!-- Elemento de audio: La canción se inicia al cargar esta pantalla -->
     <audio autoplay loop>
-      <source src="https://www.bensound.com/bensound-music/bensound-romantic.mp3" type="audio/mpeg">
+      <source src="Music: https://www.bensound.com/free-music-for-videos
+License code: PZZFA1IE2MPSVOOY" type="audio/mpeg">
       Tu navegador no soporta el audio.
     </audio>
     <img class="kitten" src="https://media.giphy.com/media/9o6wJbQ0Vb5U0/giphy.gif" alt="Gatito dando besos">
